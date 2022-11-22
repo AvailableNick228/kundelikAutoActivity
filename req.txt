@@ -1,0 +1,4 @@
+aiogram
+sqlalchemy
+requests
+bs4
